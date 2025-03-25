@@ -1,5 +1,7 @@
 # 💫 About Me:
-This is a very professional profile (⸝⸝⸝>﹏<⸝⸝⸝)
+**<span style="color: #FFB6C1; font-size: 1.5em;">Hello, I'm Kai </span></br>**
+</br>
+<span style="color: #FFB6C1; font-size: 1.5em;">coding が 大好きです (⸝⸝⸝>﹏<⸝⸝⸝) 💦💦💦</span>
 
 
 ## 💻 Tech Stack
