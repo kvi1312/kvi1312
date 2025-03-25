@@ -69,3 +69,9 @@ This is a very professional profile (⸝⸝⸝>﹏<⸝⸝⸝)
 [![](https://visitcount.itsvg.in/api?id=kvi1312&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvi1312/kvi1312/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvi1312/kvi1312/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kvi1312/kvi1312/output/github-snake.svg" />
+</picture>
