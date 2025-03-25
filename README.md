@@ -62,12 +62,6 @@ This is a very professional profile (⸝⸝⸝>﹏<⸝⸝⸝)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kvi1312&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=kvi1312&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
