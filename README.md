@@ -61,12 +61,6 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## ⭐ Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kai261199&show_icons=true&count_private=true&theme=dracula&rank_icon=github&hide_border=true" alt="Stats" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai261199&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Languages" height="190">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kai261199/kai261199/output/github-snake.svg" />
